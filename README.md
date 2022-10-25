@@ -1,2 +1,2 @@
-# cgair.github.io
-My blogs
+# dids
+Core library for decentralized identity.
